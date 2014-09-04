@@ -4,8 +4,7 @@
 
     package="com.hapill.CaromScoreBoard"
     android:versionCode="1"
-    android:versionName="1.0"   >
-
+    android:versionName="1.0" zxc>
 
     <uses-sdk
         android:minSdkVersion="8"
